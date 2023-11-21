@@ -51,20 +51,23 @@
 <br>
 
 # 🖼 서비스 화면
-![group_2 (1)](https://github.com/qotnqls1998/cyes/assets/124232457/e7b5ba2e-9b97-4039-ada2-60df3e3aaa0e)
-
-
 
 ## 실시간 퀴즈
-![ezgif.com-crop__6_](/uploads/ab502756b3186bcb97a14581c0a6c811/ezgif.com-crop__6_.gif)![ezgif.com-crop__7_](/uploads/d6adb725f5a8adf3562ffe8e069eff29/ezgif.com-crop__7_.gif)![ezgif.com-crop__8_](/uploads/2c5085bdb377a7fc5b70f87566a42851/ezgif.com-crop__8_.gif)
- 
+![quiz_1](https://github.com/qotnqls1998/cyes/assets/124232457/ad4dacb5-b9d5-44e5-8ffb-ce2887a6ea41)
+![quiz_2](https://github.com/qotnqls1998/cyes/assets/124232457/29bf09f3-8583-4a96-b8b6-ddce2a0696e4)
+![quiz_3](https://github.com/qotnqls1998/cyes/assets/124232457/18deb940-9186-4341-83a4-f8d1ef0efb89)
 
 
 ## 문제 은행
-   ![ezgif.com-crop__3_](/uploads/68b674d94a18afdcf64859cb9d4dd765/ezgif.com-crop__3_.gif)![ezgif.com-crop__4_](/uploads/1436a18e4a2947ea6859a02e4e31305d/ezgif.com-crop__4_.gif)![ezgif.com-crop__5_](/uploads/98edb74f349bace53bd05903dad7c20f/ezgif.com-crop__5_.gif)
-## 그룹 퀴즈
-![ezgif.com-crop__13_](/uploads/dd7d2f0f6eab7c3b69e94961a88c9f23/ezgif.com-crop__13_.gif)![ezgif.com-crop__11_](/uploads/2137c704956c99829067602a524096aa/ezgif.com-crop__11_.gif)![ezgif.com-crop__12_](/uploads/55356bd5148472e838d343bb19363c69/ezgif.com-crop__12_.gif)
+![problem_1](https://github.com/qotnqls1998/cyes/assets/124232457/f5d6b43d-00af-4d89-b300-7a5e32573599)
+![problem_2](https://github.com/qotnqls1998/cyes/assets/124232457/a1cc9e5c-1d4c-4c1d-9547-a232224b96a9)
+![probelm_3](https://github.com/qotnqls1998/cyes/assets/124232457/f682840a-dc80-4551-986e-d666c23495bb)
 
+
+## 그룹 퀴즈
+![group_1](https://github.com/qotnqls1998/cyes/assets/124232457/38e34614-78ac-41ae-ba2f-975807ead80b)
+![group_2 (1)](https://github.com/qotnqls1998/cyes/assets/124232457/e7b5ba2e-9b97-4039-ada2-60df3e3aaa0e)
+![group_3](https://github.com/qotnqls1998/cyes/assets/124232457/4b8d9de7-e614-436a-8d74-7585d1fe4828)
 
 
 # 🛠 주요 기술
