@@ -1,4 +1,4 @@
-# 🏆 C'YES - 실시간 CS 퀴즈 서비스
+![group_2 (1)](https://github.com/qotnqls1998/cyes/assets/124232457/fbfa842d-4c21-4b2b-a09d-fd7b27ad0f9c)# 🏆 C'YES - 실시간 CS 퀴즈 서비스
 
 ![Imgur](https://i.imgur.com/fTIckoF.png)
 
@@ -51,6 +51,7 @@
 <br>
 
 # 🖼 서비스 화면
+![group_2 (1)](https://github.com/qotnqls1998/cyes/assets/124232457/e7b5ba2e-9b97-4039-ada2-60df3e3aaa0e)
 
 
 
